@@ -1,6 +1,6 @@
-# Rails-Notes
+# Rails Notes
 
-## Init a GEMFILE
+## Init a GEMfile
 ```ruby
 cmd -> bundle init
 ```
